@@ -3,3 +3,6 @@
 
 # Layout:
 ![image](https://github.com/user-attachments/assets/0999e658-ffc2-4177-a5fc-598ffe447977)
+
+# How to import files:
+Import the .json files into your KiCad Project as EasyEDA std project
